@@ -1,0 +1,1 @@
+{{$word}}: Từ bạn vừa tìm không có trong từ điển.

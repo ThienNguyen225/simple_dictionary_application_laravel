@@ -1,0 +1,1 @@
+Từ bạn vừa dịch có ý nghĩa là: {{$result}}
